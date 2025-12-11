@@ -9,7 +9,6 @@ See OFL.txt for full details.
 
 ## Designer
 Mike Smith
-https://silv.studio
 
 ## Files
 - StonesipRegular.otf
